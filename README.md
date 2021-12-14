@@ -4,9 +4,9 @@ We are a part of XYZ Co Pvt Ltd company who is in the business of organizing the
 
 ## Dataset:
 We are given data that are present in 3 sheets with the name -<br/>
-1)Sportsmen: It contains information about sportsmen member id, full name, birthdate, gender, country code, country name, email, salary, blood group, sport location , weight, etc.<br/>
-2)Sport: It contains information about type of sport and sport location.<br/>
-3)Location: It contains information about country code,country name and language of sportsmen.
+1. Sportsmen: It contains information about sportsmen member id, full name, birthdate, gender, country code, country name, email, salary, blood group, sport location , weight, etc.<br/>
+2. Sport: It contains information about type of sport and sport location.<br/>
+3. Location: It contains information about country code,country name and language of sportsmen.
 
 ## Tools Used:
 Excel
